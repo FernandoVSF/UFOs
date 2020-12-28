@@ -11,8 +11,8 @@ The following outputs will be produced:
 - A written report on the UFO analysis
   
 ## Resources
-- Data Source: hawaii.sqlite
-- Software: Python 3.7.6, Pandas, Jupyter, VSCode, SQLite, SQLAlchemy, Flask
+- Data Source: data JavaScripy file
+- Software: JavaScript, HTML, CSS, VSCode
 
 ## Results
 The analysis of Oahu's weather data data shows that:
