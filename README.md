@@ -12,7 +12,7 @@ The following outputs will be produced:
   
 ## Resources
 - Data Source: data JavaScripy file
-- Software: JavaScript, HTML, CSS, VSCode
+- Software: JavaScript, HTML, Bootstrap, CSS, VSCode
 
 ## Results
 The analysis of Oahu's weather data data shows that:
