@@ -39,7 +39,7 @@ This page provides fully functional filters, using multiple criteria, that allow
  
 ## Summary
 
-One drawback of this design is that it requires the user to scroll over the whole list to select the input for the search criteria.  Another one is not being possible to reset filters (although we can select a new criteria for the filter),
+One drawback of this design is that it requires the user to scroll over the whole list to select the input for the search criteria.  Another one is not being possible to reset filters (although we can select a new criteria for the filter).
 
 As a recomendation for further dvelopments, I suggest the following:
 
