@@ -36,37 +36,14 @@ This page provides fully functional filters, using multiple criteria, that allow
    - Adding filter by Date = 1/1/2010
   
 ![f4](/f4_date.png)
-
-
-
  
 ## Summary
 
-Based on the results above, we reached the conclusion that, given the temperature analysis, the surf and ice cream shop business is sustainable year-round.  However, for a more accurate opinion, it would be necessary also analysing preciptation and data from the station with the highest number of temperature observations, as it tends to be more reliable.
+One drawback of this design is that it requires the user to scroll over the whole list to select the input for the search criteria.  Another one is not being possible to reset filters (although we can select a new criteria for the filter),
 
-  - Preciptation:  
+As a recomendation for further dvelopments, I suggest the following:
+
+  - Implementing combo boxes in the input fields, to show the possible selections and avpiding typos;
   
-    - June
-   
-      results = session.query(Measurement.prcp).\
-      filter(extract('month', Measurement.date) == 6).all()
-    
-    - December  
-    
-      results = session.query(Measurement.prcp).\
-      filter(extract('month', Measurement.date) == 12).all()
-    
-  - Highest Obsvervation Station:
-  
-    - June
-  
-      results = session.query(Measurement.tobs).\
-      filter(Measurement.station == 'USC00519281').\
-      filter(extract('month', Measurement.date) == 6).all()
-    
-    - December
-    
-      results = session.query(Measurement.tobs).\
-      filter(Measurement.station == 'USC00519281').\
-      filter(extract('month', Measurement.date) == 12).all()
+  - Implementing and option to reset filters, by "showing all" in the combo box suggested above.
   
