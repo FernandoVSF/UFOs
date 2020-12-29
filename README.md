@@ -25,15 +25,15 @@ This page provides fully functional filters, using multiple criteria, that allow
   
 ![f1](/f1_shape.png)
   
-   - Filtering by State = ca
+   - Adding filter by State = ca
   
 ![f2](/f2_state.png)
 
-   - Filtering by City = el cajon
+   - Adding filter by City = el cajon
   
 ![f3](/f3_city.png)
 
-   - Filtering by Date = 1/1/2010
+   - Adding filter by Date = 1/1/2010
   
 ![f4](/f4_date.png)
 
