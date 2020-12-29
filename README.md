@@ -21,17 +21,24 @@ This page provides fully functional filters, using multiple criteria, that allow
   
 ![initial](/initial.png)
 
+   - Filtering by Shape = light
   
+![f1](/f1_shape.png)
   
-  - Average temperature is fairly stable across the year, being June's average slighlyly higher (75 against 71);
-  - Temperatures ate more stable whithin the month in June (std 3.26 against 3.75), but both overall fairly stable;
-  - Although there are few outliers (56 in December), there are not many cold days, as the 25% percentile is 73 and 69 (with fewer cold days in June)
+   - Filtering by State = ca
   
-- June Statiscs
-![June Statiscs](/June_stats.png)
+![f2](/f2_state.png)
 
-- December Statiscs
-![December Statiscs](/December_stats.png)
+   - Filtering by City = el cajon
+  
+![f3](/f3_city.png)
+
+   - Filtering by Date = 1/1/2010
+  
+![f4](/f4_date.png)
+
+
+
  
 ## Summary
 
