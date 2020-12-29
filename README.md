@@ -43,7 +43,7 @@ One drawback of this design is that it requires the user to scroll over the whol
 
 As a recomendation for further dvelopments, I suggest the following:
 
-  - Implementing combo boxes in the input fields, to show the possible selections and avpiding typos;
+  - Implementing combo boxes in the input fields, to show the possible selections and avoiding typos;
   
-  - Implementing and option to reset filters, by "showing all" in the combo box suggested above.
+  - Implementing an option to reset filters, by "showing all" in the combo box suggested above.
   
